@@ -12,6 +12,7 @@
 
 - Tasks:
   - [x] Set up project using Next.js with Typescript
+  - [x] Add linter to the project
   - [] Add a login page with Chakra UI using Firebase for authentication
   - [] On the home page, add a component for creating two fields per spending: the amount
     spent and the category and the month as the header
