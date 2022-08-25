@@ -10,7 +10,7 @@
     - The website's functionalities should be unit tested
 
 - Tasks: 
-    - [] Set up project using Next.js
+    - [] Set up project using Next.js with Typescript
 	- [] Add a login page with Chakra UI using Firebase for authentication
 	- [] On the home page, add a component for creating two fields per spending: the amount 
          spent and the category and the month as the header
