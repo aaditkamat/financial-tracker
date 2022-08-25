@@ -223,7 +223,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.7.13":
+"@types/node@npm:18.7.13":
   version: 18.7.13
   resolution: "@types/node@npm:18.7.13"
   checksum: 45431e7e89ecaf85c7d2c180d801c132a7c59e2f8ad578726b6d71cc74e3267c18f9ccdcad738bc0479790c078f0c79efb0e58da2c6be535c15995dbb19050c9
@@ -237,7 +237,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^18.0.17":
+"@types/react@npm:18.0.17":
   version: 18.0.17
   resolution: "@types/react@npm:18.0.17"
   dependencies:
@@ -1031,14 +1031,14 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "financial-tracker@workspace:."
   dependencies:
-    "@types/node": ^18.7.13
-    "@types/react": ^18.0.17
+    "@types/node": 18.7.13
+    "@types/react": 18.0.17
     eslint: 8.22.0
     eslint-config-next: 12.2.5
-    next: ^12.2.5
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    typescript: ^4.7.4
+    next: 12.2.5
+    react: 18.2.0
+    react-dom: 18.2.0
+    typescript: 4.7.4
   languageName: unknown
   linkType: soft
 
@@ -1627,7 +1627,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:^12.2.5":
+"next@npm:12.2.5":
   version: 12.2.5
   resolution: "next@npm:12.2.5"
   dependencies:
@@ -1914,7 +1914,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^18.2.0":
+"react-dom@npm:18.2.0":
   version: 18.2.0
   resolution: "react-dom@npm:18.2.0"
   dependencies:
@@ -1933,7 +1933,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.2.0":
+"react@npm:18.2.0":
   version: 18.2.0
   resolution: "react@npm:18.2.0"
   dependencies:
@@ -2283,7 +2283,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.7.4":
+"typescript@npm:4.7.4":
   version: 4.7.4
   resolution: "typescript@npm:4.7.4"
   bin:
@@ -2293,7 +2293,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.7.4#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.7.4#~builtin<compat/typescript>":
   version: 4.7.4
   resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"
   bin:
