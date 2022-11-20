@@ -223,10 +223,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.7.13":
-  version: 18.7.13
-  resolution: "@types/node@npm:18.7.13"
-  checksum: 45431e7e89ecaf85c7d2c180d801c132a7c59e2f8ad578726b6d71cc74e3267c18f9ccdcad738bc0479790c078f0c79efb0e58da2c6be535c15995dbb19050c9
+"@types/node@npm:18.11.9":
+  version: 18.11.9
+  resolution: "@types/node@npm:18.11.9"
+  checksum: cc0aae109e9b7adefc32eecb838d6fad931663bb06484b5e9cbbbf74865c721b03d16fd8d74ad90e31dbe093d956a7c2c306ba5429ba0c00f3f7505103d7a496
   languageName: node
   linkType: hard
 
@@ -1031,7 +1031,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "financial-tracker@workspace:."
   dependencies:
-    "@types/node": 18.7.13
+    "@types/node": 18.11.9
     "@types/react": 18.0.17
     eslint: 8.22.0
     eslint-config-next: 12.2.5
