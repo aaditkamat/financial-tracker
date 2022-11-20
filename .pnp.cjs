@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.7.13"],\
+            ["@types/node", "npm:18.11.9"],\
             ["@types/react", "npm:18.0.17"],\
             ["eslint", "npm:8.22.0"],\
             ["eslint-config-next", "virtual:0a1422783e72652c37bc8f39634c9c417051727587175ccc64186dcaf6286172883d13eb45c21f0488f7497058478b2e590f292e0dcff73faa95405046efd4d2#npm:12.2.5"],\
@@ -310,10 +310,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:18.7.13", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.7.13-148c07645a-45431e7e89.zip/node_modules/@types/node/",\
+        ["npm:18.11.9", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.11.9-d21dd6ec05-cc0aae109e.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.7.13"]\
+            ["@types/node", "npm:18.11.9"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1391,7 +1391,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["financial-tracker", "workspace:."],\
-            ["@types/node", "npm:18.7.13"],\
+            ["@types/node", "npm:18.11.9"],\
             ["@types/react", "npm:18.0.17"],\
             ["eslint", "npm:8.22.0"],\
             ["eslint-config-next", "virtual:0a1422783e72652c37bc8f39634c9c417051727587175ccc64186dcaf6286172883d13eb45c21f0488f7497058478b2e590f292e0dcff73faa95405046efd4d2#npm:12.2.5"],\
